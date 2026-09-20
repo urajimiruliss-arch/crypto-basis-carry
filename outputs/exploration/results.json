@@ -1,0 +1,100 @@
+{
+  "BTC": {
+    "asset": "BTC",
+    "from": "2019-09-10",
+    "to": "2024-12-31",
+    "years": 5.31,
+    "periods": 5819,
+    "gross_annualised": 0.13952387067365526,
+    "net_annualised_yearly_entry": 0.09493357506050581,
+    "net_annualised_monthly_entry": 0.05207940839383914,
+    "share_negative": 0.1278570201065475,
+    "longest_negative_run_periods": 24,
+    "worst_30d_funding": -0.01311998,
+    "max_drawdown_gross": -0.01518541999999988,
+    "buffer_1d": 0.27203743179289175,
+    "buffer_3d": 0.29218593378315716,
+    "buffer_7d": 0.39945992652042883,
+    "by_year": {
+      "2019": {
+        "periods": 338,
+        "gross_annualised": 0.07481924423076923,
+        "share_negative": 0.1834319526627219
+      },
+      "2020": {
+        "periods": 1098,
+        "gross_annualised": 0.1719261594262295,
+        "share_negative": 0.1429872495446266
+      },
+      "2021": {
+        "periods": 1095,
+        "gross_annualised": 0.30608423,
+        "share_negative": 0.0730593607305936
+      },
+      "2022": {
+        "periods": 1095,
+        "gross_annualised": 0.04164925,
+        "share_negative": 0.22100456621004566
+      },
+      "2023": {
+        "periods": 1095,
+        "gross_annualised": 0.07865712,
+        "share_negative": 0.10136986301369863
+      },
+      "2024": {
+        "periods": 1098,
+        "gross_annualised": 0.11924213920765027,
+        "share_negative": 0.08378870673952642
+      }
+    }
+  },
+  "ETH": {
+    "asset": "ETH",
+    "from": "2019-11-27",
+    "to": "2024-12-31",
+    "years": 5.1,
+    "periods": 5585,
+    "gross_annualised": 0.17237188654431512,
+    "net_annualised_yearly_entry": 0.11820091963555655,
+    "net_annualised_monthly_entry": 0.07534675296888987,
+    "share_negative": 0.10725156669650851,
+    "longest_negative_run_periods": 25,
+    "worst_30d_funding": -0.01777489,
+    "max_drawdown_gross": -0.017921620000000194,
+    "buffer_1d": 0.3136758005118283,
+    "buffer_3d": 0.42936815709059006,
+    "buffer_7d": 0.7030345839332772,
+    "by_year": {
+      "2019": {
+        "periods": 104,
+        "gross_annualised": 0.08914131778846154,
+        "share_negative": 0.04807692307692308
+      },
+      "2020": {
+        "periods": 1098,
+        "gross_annualised": 0.2741484782786885,
+        "share_negative": 0.026411657559198543
+      },
+      "2021": {
+        "periods": 1095,
+        "gross_annualised": 0.37537255,
+        "share_negative": 0.0410958904109589
+      },
+      "2022": {
+        "periods": 1095,
+        "gross_annualised": 0.00787256,
+        "share_negative": 0.3415525114155251
+      },
+      "2023": {
+        "periods": 1095,
+        "gross_annualised": 0.08259507,
+        "share_negative": 0.091324200913242
+      },
+      "2024": {
+        "periods": 1098,
+        "gross_annualised": 0.12961408292349727,
+        "share_negative": 0.04189435336976321
+      }
+    }
+  }
+}
