@@ -1,0 +1,88 @@
+{
+  "BTC": {
+    "asset": "BTC",
+    "from": "2025-01-01",
+    "to": "2026-09-20",
+    "years": 1.72,
+    "periods": 1884,
+    "gross_annualised": 0.04199462746815286,
+    "net_annualised_yearly_entry": 0.025850361123274945,
+    "net_annualised_monthly_entry": -0.020004477109872618,
+    "share_negative": 0.18577494692144372,
+    "longest_negative_run_periods": 14,
+    "worst_30d_funding": -0.00296775,
+    "max_drawdown_gross": -0.004124630000000011,
+    "buffer_1d": 0.1221032606361574,
+    "buffer_3d": 0.21045382879401497,
+    "buffer_7d": 0.24270570499087518,
+    "by_year": {
+      "2025": {
+        "periods": 1095,
+        "gross_annualised": 0.05126428,
+        "share_negative": 0.12876712328767123
+      },
+      "2026": {
+        "periods": 789,
+        "gross_annualised": 0.029129900570342204,
+        "share_negative": 0.26489226869455007
+      }
+    },
+    "tests": {
+      "mean_net_annual": 0.025349740238095247,
+      "p_h1": 0.0526,
+      "p_h2": 0.9989
+    }
+  },
+  "ETH": {
+    "asset": "ETH",
+    "from": "2025-01-01",
+    "to": "2026-09-20",
+    "years": 1.72,
+    "periods": 1884,
+    "gross_annualised": 0.03602393654458599,
+    "net_annualised_yearly_entry": 0.021621121719081742,
+    "net_annualised_monthly_entry": -0.02498005287951168,
+    "share_negative": 0.22505307855626328,
+    "longest_negative_run_periods": 16,
+    "worst_30d_funding": -0.00325119,
+    "max_drawdown_gross": -0.00597497000000001,
+    "buffer_1d": 0.2261697271501193,
+    "buffer_3d": 0.42635928712696236,
+    "buffer_7d": 0.4748158262765525,
+    "by_year": {
+      "2025": {
+        "periods": 1095,
+        "gross_annualised": 0.04928719,
+        "share_negative": 0.16164383561643836
+      },
+      "2026": {
+        "periods": 789,
+        "gross_annualised": 0.01761675969581749,
+        "share_negative": 0.31305449936628643
+      }
+    },
+    "tests": {
+      "mean_net_annual": 0.021191677857142866,
+      "p_h1": 0.1582,
+      "p_h2": 1.0
+    }
+  },
+  "kraken": {
+    "BTC": {
+      "hours": 8834,
+      "from": "2025-09-17T08:00:00Z",
+      "to": "2026-09-20T17:00:00Z",
+      "gross_annualised": 0.03273860362543315,
+      "net_annualised_yearly_entry": 0.019294010901348482,
+      "share_negative": 0.30201494226850806
+    },
+    "ETH": {
+      "hours": 8834,
+      "from": "2025-09-17T08:00:00Z",
+      "to": "2026-09-20T17:00:00Z",
+      "gross_annualised": 0.030554473490382397,
+      "net_annualised_yearly_entry": 0.017746918722354198,
+      "share_negative": 0.31944758886121805
+    }
+  }
+}
