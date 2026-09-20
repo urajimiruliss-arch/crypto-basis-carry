@@ -1,0 +1,6 @@
+# Raw exchange data is re-downloadable with download.py and is not republished.
+data/raw/
+data/manifest.json
+
+__pycache__/
+*.pyc
